@@ -3,7 +3,7 @@
 Мне предоставлены исторические о поведении клиентов и расторжении договоров с банком. Необходимо спрогонозировать, уйдет ли клиент в ближайшее время или нет.
   
 **Инструменты:**  
-Scikit-learn, Pandas, Matplotlib, Seaborn, NumPy, Random.
+Scikit-learn, Pandas, Matplotlib, Seaborn, NumPy, Random.  
 Машинное обучение, Upsampling, Downsampling, One-Hot Encoding, Ordinal Encoding, Масштабирование данных, предобработка данных, визуализация. 
 
 **Цель:**  
