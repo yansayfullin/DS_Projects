@@ -12,7 +12,7 @@ Pandas, SciPy, Matplotlib, Seaborn, NumPy, Datetime.
 **Выводы:**  
 Продукт для рекламной кампании рекомендуется выбирать индивидуально для каждого региона из следующих категорий:
 Северная Америка: Платформа: PS4/XOne; Жанр: Action/Shooter; ESRB Rating: M/E  
-Европа: Платформа: PS4; Жанр: Action; ESRB Rating: M/E
+Европа: Платформа: PS4; Жанр: Action; ESRB Rating: M/E  
 Япония: Платформа: 3DS; Жанр: Role-Playing; ESRB Rating: E/T
 
 **Статус проекта:**  
