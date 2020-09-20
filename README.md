@@ -2,15 +2,17 @@
 В этом репозитории размещены проекты, сделанные в процессе обучения на курсах Яндекс.Практикум "Специалист по Data Science".
 Далее приведена общая информация о проекте и используемые инструменты в процессе выполнения проекта.
 
-[id1]: https://github.com/yansayfullin/YP_Projects/tree/master/1_Bank_Credit_Scoring "Bank Credit Scoring project"
-[id2]: https://github.com/yansayfullin/YP_Projects/tree/master/2_Real_Estate "Real Estate project"
-[id3]: https://github.com/yansayfullin/YP_Projects/tree/master/3_Telecom_Tariffs "Telecom Tariffs project"
-[id4]: https://github.com/yansayfullin/YP_Projects/tree/master/4_Games_Sales "Games Sales project"
-[id5]: https://github.com/yansayfullin/YP_Projects/tree/master/5_Tariff_Recomendation "Tariff Recomendation project"
-[id6]: https://github.com/yansayfullin/YP_Projects/tree/master/6_Bank_Churn "Bank Churn project"
-[id7]: https://github.com/yansayfullin/YP_Projects/tree/master/7_Oil_Location "Oil Location project"
-[id8]: https://github.com/yansayfullin/YP_Projects/tree/master/8_Gold_Recovery "Gold Recovery project"
-[id9]: https://github.com/yansayfullin/YP_Projects/tree/master/9_Personal_Data_Protection "Personal Data Protection project"
+[id1]: https://github.com/yansayfullin/YP_Projects/tree/master/01_Bank_Credit_Scoring "Bank Credit Scoring project"
+[id2]: https://github.com/yansayfullin/YP_Projects/tree/master/02_Real_Estate "Real Estate project"
+[id3]: https://github.com/yansayfullin/YP_Projects/tree/master/03_Telecom_Tariffs "Telecom Tariffs project"
+[id4]: https://github.com/yansayfullin/YP_Projects/tree/master/04_Games_Sales "Games Sales project"
+[id5]: https://github.com/yansayfullin/YP_Projects/tree/master/05_Tariff_Recomendation "Tariff Recomendation project"
+[id6]: https://github.com/yansayfullin/YP_Projects/tree/master/06_Bank_Churn "Bank Churn project"
+[id7]: https://github.com/yansayfullin/YP_Projects/tree/master/07_Oil_Location "Oil Location project"
+[id8]: https://github.com/yansayfullin/YP_Projects/tree/master/08_Gold_Recovery "Gold Recovery project"
+[id9]: https://github.com/yansayfullin/YP_Projects/tree/master/09_Personal_Data_Protection "Personal Data Protection project"
+[id10]: https://github.com/yansayfullin/YP_Projects/tree/master/10_Vehicle_Cost_Prediction "Vehicle Cost Prediction"
+[id11]: https://github.com/yansayfullin/YP_Projects/tree/master/11_Taxi_Order_Prediction "Taxi Order Prediction"
 
 
 | № | Проект | Описание | Инструменты |
@@ -23,5 +25,6 @@
 | [6][id6]  | [Прогнозирование оттока клиентов банка][id6] | Мне предоставлены исторические данные о поведении клиентов и расторжении договоров с банком. Необходимо спрогонозировать, уйдет ли клиент в ближайшее время или нет. | Scikit-learn, Pandas, Matplotlib, Seaborn, NumPy, Random. Машинное обучение, Upsampling, Downsampling, One-Hot Encoding, Ordinal Encoding, Масштабирование данных, предобработка данных, визуализация.  |
 | [7][id7]  | [Выбор месторождения для бурения новой скважины][id7] | Мне предоставлены пробы нефти в трёх регионах, где измерили качество нефти и объём её запасов. Необходимо построить модель, которая поможет определить наиболее прибыльный регион с наименьшими рисками. | Scikit-learn, Pandas, Matplotlib, Seaborn, NumPy, SciPy. Машинное обучение, Bootstrap, предобработка данных, визуализация. |
 | [8][id8]  | [Предсказание коэффициента восстановления золота из золотосодержащей руды][id8] | В моем распоряжении данные с различными признаками, зафиксированными в процессе нескольких этапов очистки золотосодержащей руды. Необходимо подготовить модель, которая будет предсказывать коэффициент восстановления золота. | Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn. Машинное обучение, предобработка данных, визуализация, проверка гипотез. |
-| [9][id9]  | [Защита персональных данных клиентов страховой компании][id9] | Необходимо защитить персональные данные клиентов страховой компании. Разработать такой метод преобразования данных, чтобы по ним было тяжело восстановить исходную информацию и при этом не менялось качество линейной регрессии. | Scikit-learn, Pandas, NumPy, Random, Matplotlib, Seaborn. Линейная алгебра, Машинное обучение. |
-
+| [9][id9]  | [Защита персональных данных клиентов страховой компании][id9] | Необходимо защитить персональные данные клиентов страховой компании. Разработать такой метод преобразования данных, чтобы по ним было тяжело восстановить исходную информацию и при этом не менялось качество линейной регрессии. | Scikit-learn, Pandas, NumPy, Random, Matplotlib, Seaborn. Линейная алгебра, машинное обучение. |
+| [10][id10]  | [Определение рыночной стоимости автомобиля][id10] | В моем распоряжении исторические данные с техническими характеристиками, комплектациями и ценами автомобилей. Необходимо построить и сравнить несколько моделей для определения стоимости автомобиля. | Scikit-learn, LightGBM, XGBoost, Catboost, Pandas, NumPy, Matplotlib, Seaborn. Градиентный бустинг, машинное обучение, One-Hot Encoding, Ordinal Encoding, масштабирование данных. |
+| [11][id11]  | [Прогнозирование количества заказов такси][id11] | Имеются исторические данные о заказах такси. Необходимо построить модель для прогнозирования количества заказов такси. | LightGBM, Scikit-learn, Statsmodels, Pandas. Времянные ряды, машинное обучение, создание признаков. |
