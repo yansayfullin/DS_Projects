@@ -11,8 +11,9 @@
 [id7]: https://github.com/yansayfullin/YP_Projects/tree/master/07_Oil_Location "Oil Location project"
 [id8]: https://github.com/yansayfullin/YP_Projects/tree/master/08_Gold_Recovery "Gold Recovery project"
 [id9]: https://github.com/yansayfullin/YP_Projects/tree/master/09_Personal_Data_Protection "Personal Data Protection project"
-[id10]: https://github.com/yansayfullin/YP_Projects/tree/master/10_Vehicle_Cost_Prediction "Vehicle Cost Prediction"
-[id11]: https://github.com/yansayfullin/YP_Projects/tree/master/11_Taxi_Order_Prediction "Taxi Order Prediction"
+[id10]: https://github.com/yansayfullin/YP_Projects/tree/master/10_Vehicle_Cost_Prediction "Vehicle Cost Prediction project"
+[id11]: https://github.com/yansayfullin/YP_Projects/tree/master/11_Taxi_Order_Prediction "Taxi Order Prediction project"
+[id12]: https://github.com/yansayfullin/YP_Projects/tree/master/12_Text_Sentiment_Analysis "Text Sentiment Analysis project"
 
 
 | № | Проект | Описание | Инструменты |
@@ -28,3 +29,4 @@
 | [9][id9]  | [Защита персональных данных клиентов страховой компании][id9] | Необходимо защитить персональные данные клиентов страховой компании. Разработать такой метод преобразования данных, чтобы по ним было тяжело восстановить исходную информацию и при этом не менялось качество линейной регрессии. | Scikit-learn, Pandas, NumPy, Random, Matplotlib, Seaborn. Линейная алгебра, машинное обучение. |
 | [10][id10]  | [Определение рыночной стоимости автомобиля][id10] | В моем распоряжении исторические данные с техническими характеристиками, комплектациями и ценами автомобилей. Необходимо построить и сравнить несколько моделей для определения стоимости автомобиля. | Scikit-learn, LightGBM, XGBoost, Catboost, Pandas, NumPy, Matplotlib, Seaborn. Градиентный бустинг, машинное обучение, One-Hot Encoding, Ordinal Encoding, масштабирование данных. |
 | [11][id11]  | [Прогнозирование количества заказов такси][id11] | Имеются исторические данные о заказах такси. Необходимо построить модель для прогнозирования количества заказов такси. | LightGBM, Scikit-learn, Statsmodels, Pandas. Временные ряды, машинное обучение, создание признаков. |
+| [12][id12]  | [Прогнозирование количества заказов такси][id12] | Мне предоставлены комментарии пользователей с разметкой о тональности комментария. Необходимо обучить модель классифицировать комментарии на позитивные и негативные. | Scikit-learn, LightGBM, NLTK, re, DistilBert, Pandas. Предобработка и векторизация текста, машинное обучение. |
