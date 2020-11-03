@@ -14,7 +14,7 @@
 [id10]: https://github.com/yansayfullin/YP_Projects/tree/master/10_Vehicle_Cost_Prediction "Vehicle Cost Prediction project"
 [id11]: https://github.com/yansayfullin/YP_Projects/tree/master/11_Taxi_Order_Prediction "Taxi Order Prediction project"
 [id12]: https://github.com/yansayfullin/YP_Projects/tree/master/12_Text_Sentiment_Analysis "Text Sentiment Analysis project"
-
+[id13]: https://github.com/yansayfullin/YP_Projects/tree/master/13_Image_Age_Recognition "Image Age Recognition project"
 
 | № | Проект | Описание | Инструменты |
 | :- | :--------------------- | :---------------------------| :---------------------------|
@@ -30,3 +30,4 @@
 | [10][id10]  | [Определение рыночной стоимости автомобиля][id10] | В моем распоряжении исторические данные с техническими характеристиками, комплектациями и ценами автомобилей. Необходимо построить и сравнить несколько моделей для определения стоимости автомобиля. | Scikit-learn, LightGBM, XGBoost, Catboost, Pandas, NumPy, Matplotlib, Seaborn. Градиентный бустинг, машинное обучение, One-Hot Encoding, Ordinal Encoding, масштабирование данных. |
 | [11][id11]  | [Прогнозирование количества заказов такси][id11] | Имеются исторические данные о заказах такси. Необходимо построить модель для прогнозирования количества заказов такси. | LightGBM, Scikit-learn, Statsmodels, Pandas. Временные ряды, машинное обучение, создание признаков. |
 | [12][id12]  | [Классификация тональности текста][id12] | Мне предоставлены комментарии пользователей с разметкой о тональности комментария. Необходимо обучить модель классифицировать комментарии на позитивные и негативные. | Scikit-learn, LightGBM, NLTK, re, DistilBert, Pandas. Предобработка и векторизация текста, машинное обучение. |
+| [13][id13]  | [Определение возраста по фотографии][id13] | В моем распоряжении набор фотографий с указанием возвраста. Необходимо построить модель, которая по фотографии определит приблизительный возраст человека. | Keras, PIL, NumPy, Pandas. Нейронные сети, ResNet50, Аугментация. |
