@@ -2,19 +2,19 @@
 В этом репозитории размещены проекты, сделанные в процессе обучения на курсах Яндекс.Практикум "Специалист по Data Science".
 Далее приведена общая информация о проекте и используемые инструменты в процессе выполнения проекта.
 
-[id1]: https://github.com/yansayfullin/YP_Projects/tree/master/01_Bank_Credit_Scoring "Bank Credit Scoring project"
-[id2]: https://github.com/yansayfullin/YP_Projects/tree/master/02_Real_Estate "Real Estate project"
-[id3]: https://github.com/yansayfullin/YP_Projects/tree/master/03_Telecom_Tariffs "Telecom Tariffs project"
-[id4]: https://github.com/yansayfullin/YP_Projects/tree/master/04_Games_Sales "Games Sales project"
-[id5]: https://github.com/yansayfullin/YP_Projects/tree/master/05_Tariff_Recomendation "Tariff Recomendation project"
-[id6]: https://github.com/yansayfullin/YP_Projects/tree/master/06_Bank_Churn "Bank Churn project"
-[id7]: https://github.com/yansayfullin/YP_Projects/tree/master/07_Oil_Location "Oil Location project"
-[id8]: https://github.com/yansayfullin/YP_Projects/tree/master/08_Gold_Recovery "Gold Recovery project"
-[id9]: https://github.com/yansayfullin/YP_Projects/tree/master/09_Personal_Data_Protection "Personal Data Protection project"
-[id10]: https://github.com/yansayfullin/YP_Projects/tree/master/10_Vehicle_Cost_Prediction "Vehicle Cost Prediction project"
-[id11]: https://github.com/yansayfullin/YP_Projects/tree/master/11_Taxi_Order_Prediction "Taxi Order Prediction project"
-[id12]: https://github.com/yansayfullin/YP_Projects/tree/master/12_Text_Sentiment_Analysis "Text Sentiment Analysis project"
-[id13]: https://github.com/yansayfullin/YP_Projects/tree/master/13_Image_Age_Recognition "Image Age Recognition project"
+[id1]: https://github.com/yansayfullin/DS_Projects/tree/master/01_Bank_Credit_Scoring "Bank Credit Scoring project"
+[id2]: https://github.com/yansayfullin/DS_Projects/tree/master/02_Real_Estate "Real Estate project"
+[id3]: https://github.com/yansayfullin/DS_Projects/tree/master/03_Telecom_Tariffs "Telecom Tariffs project"
+[id4]: https://github.com/yansayfullin/DS_Projects/tree/master/04_Games_Sales "Games Sales project"
+[id5]: https://github.com/yansayfullin/DS_Projects/tree/master/05_Tariff_Recomendation "Tariff Recomendation project"
+[id6]: https://github.com/yansayfullin/DS_Projects/tree/master/06_Bank_Churn "Bank Churn project"
+[id7]: https://github.com/yansayfullin/DS_Projects/tree/master/07_Oil_Location "Oil Location project"
+[id8]: https://github.com/yansayfullin/DS_Projects/tree/master/08_Gold_Recovery "Gold Recovery project"
+[id9]: https://github.com/yansayfullin/DS_Projects/tree/master/09_Personal_Data_Protection "Personal Data Protection project"
+[id10]: https://github.com/yansayfullin/DS_Projects/tree/master/10_Vehicle_Cost_Prediction "Vehicle Cost Prediction project"
+[id11]: https://github.com/yansayfullin/DS_Projects/tree/master/11_Taxi_Order_Prediction "Taxi Order Prediction project"
+[id12]: https://github.com/yansayfullin/DS_Projects/tree/master/12_Text_Sentiment_Analysis "Text Sentiment Analysis project"
+[id13]: https://github.com/yansayfullin/DS_Projects/tree/master/13_Image_Age_Recognition "Image Age Recognition project"
 
 | № | Проект | Описание | Инструменты |
 | :- | :--------------------- | :---------------------------| :---------------------------|
