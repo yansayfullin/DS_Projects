@@ -15,6 +15,8 @@
 [id11]: https://github.com/yansayfullin/DS_Projects/tree/master/11_Taxi_Order_Prediction "Taxi Order Prediction project"
 [id12]: https://github.com/yansayfullin/DS_Projects/tree/master/12_Text_Sentiment_Analysis "Text Sentiment Analysis project"
 [id13]: https://github.com/yansayfullin/DS_Projects/tree/master/13_Image_Age_Recognition "Image Age Recognition project"
+[id14]: https://github.com/yansayfullin/DS_Projects/tree/master/14_Telecom_Churn "Telecom Churn project"
+
 
 | № | Проект | Описание | Инструменты |
 | :- | :--------------------- | :---------------------------| :---------------------------|
@@ -31,3 +33,4 @@
 | [11][id11]  | [Прогнозирование количества заказов такси][id11] | Имеются исторические данные о заказах такси. Необходимо построить модель для прогнозирования количества заказов такси. | LightGBM, Scikit-learn, Statsmodels, Pandas. Временные ряды, машинное обучение, создание признаков. |
 | [12][id12]  | [Классификация тональности текста][id12] | Мне предоставлены комментарии пользователей с разметкой о тональности комментария. Необходимо обучить модель классифицировать комментарии на позитивные и негативные. | Scikit-learn, LightGBM, NLTK, re, DistilBert, Pandas. Предобработка и векторизация текста, машинное обучение. |
 | [13][id13]  | [Определение возраста по фотографии][id13] | В моем распоряжении набор фотографий с указанием возвраста. Необходимо построить модель, которая по фотографии определит приблизительный возраст человека. | Keras, PIL, NumPy, Pandas. Нейронные сети, ResNet50, Аугментация. |
+| [14][id14]  | [Прогнозирование оттока клиентов в телеком компании][id14] | Необходимо подготовить модель для прогнозирования оттока клиентов, с целью определения и удержания таких клиентов за счет специальных предложений. | Scikit-learn, LightGBM, XGBoost, Hyperopt. Исследовательский анализ данных, создание признаков, машинное обучение. |
